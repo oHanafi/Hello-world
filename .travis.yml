@@ -9,5 +9,5 @@ python:
 install:
 - pip install pytest pytest-cov
 
-script:  pytest
+script:  test.py
 
